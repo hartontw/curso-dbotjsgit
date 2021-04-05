@@ -104,3 +104,8 @@ git remote add origin <url>
 ```sh
 git push origin master
 ```
+
+## Útiles
+- [Discord.js Docs](https://discord.js.org/#/docs/main/stable/general/welcome)
+- [Guía de DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-build-a-discord-bot-with-node-js-es)
+- [Mi repositorio](https://github.com/hartontw/curso-dbotjsgit)
